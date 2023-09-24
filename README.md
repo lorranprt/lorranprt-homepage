@@ -1,17 +1,15 @@
 # 🍁 Lorran´s homepage
 
-link aqui
-
 ## Project Structure'
 ```
 $PROJECT_ROOT
 │   # Page files
-├── app
+├── pages
 │   # React component files
 ├── components
 │   # Non-react modules
 ├── lib
-│   # Static files for images and 3d model file
+│   # Static files for images
 └── public
 ```
 
