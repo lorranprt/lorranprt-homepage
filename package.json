@@ -1,5 +1,5 @@
 {
-  "name": "my-homepage",
+  "name": "@lorranprt/my-homepage",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -17,7 +17,7 @@
     "eslint": "8.49.0",
     "eslint-config-next": "13.5.2",
     "framer-motion": "^10.16.4",
-    "next": "^13.5.2",
+    "next": "^13.5.3-canary.3",
     "postcss": "8.4.30",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -26,5 +26,13 @@
   },
   "devDependencies": {
     "encoding": "^0.1.13"
-  }
+  },
+  "description": "Lorran's website",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [],
+  "author": "Lorran Porto",
+  "license": "MIT"
 }
