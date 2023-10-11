@@ -61,7 +61,7 @@ export default function Home() {
                 overflow="hidden"
               >
                 <ProfileImage
-                  src="/images/lorran.jpg"
+                  src="/images/#.jpg" // remember put my photo here
                   alt="Profile image"
                   borderRadius="full"
                   width="100"
