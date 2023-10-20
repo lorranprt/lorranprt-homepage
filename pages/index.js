@@ -17,7 +17,7 @@ import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import { IoLogoTwitter, IoLogoInstagram, IoLogoGithub } from 'react-icons/io5'
 import Image from 'next/image'
-import Fonts from '@/components/fonts'
+import Fonts from '/components/fonts'
 
 const ProfileImage = chakra(Image, {
   shouldForwardProp: prop => ['width', 'height', 'src', 'alt'].includes(prop)
@@ -41,7 +41,7 @@ export default function Home() {
           <Box display={{ md: 'flex' }}>
             <Box flexGrow={1}>
               <Heading as="h2" variant="page-title">
-                Lorran Porto
+              Lorran Porto
               </Heading>
               <p>Full-Stack Developer</p>
             </Box>
@@ -121,11 +121,10 @@ export default function Home() {
               I ♥
             </Heading>
             <Paragraph>
-                Music,{' '}, Making live streams,{' '}
+                Music,{' '}put some content here,{' '}
               <Link href="#" target="_blank">
                 Photography
               </Link>
-              , Machine Learning
             </Paragraph>
           </Section>
     
