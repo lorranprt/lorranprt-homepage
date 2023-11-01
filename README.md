@@ -14,7 +14,6 @@ $PROJECT_ROOT
 ```
 
 ## Stack'
-- [Next.js](#) - A React framework with hybrid static & server rendering, and route pre-fetching, etc.
-- [Chakra UI](#) - A simple, modular and accessible component library for React
-- [Three.js](#) - 3D library for JavaScript
-- [Framer Motion]() - An animation library for React
+- [Leaflet](https://leafletjs.com/reference.html) - Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps. Weighing just about 42 KB of JS, it has all the mapping features most developers ever need.
+- [React](https://legacy.reactjs.org/docs/getting-started.html) - The library for web and native user interfaces
+- [Framer Motion](https://www.framer.com/motion/) - An animation library for React
