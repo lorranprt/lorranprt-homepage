@@ -14,6 +14,7 @@ $PROJECT_ROOT
 ```
 
 ## Stack'
-- [Leaflet](https://leafletjs.com/reference.html) -Leaflet é a principal biblioteca JavaScript de código aberto para mapas interativos compatíveis com dispositivos móveis. Pesando cerca de 42 KB de JS, ele possui todos os recursos de mapeamento que a maioria dos desenvolvedores precisa.
-- [React](https://legacy.reactjs.org/docs/getting-started.html) - A biblioteca para interfaces de usuário web e nativas
-- [Framer Motion](https://www.framer.com/motion/) - Uma biblioteca de animação para React
+- [Next.js](#) - A React framework with hybrid static & server rendering, and route pre-fetching, etc.
+- [Chakra UI](#) - A simple, modular and accessible component library for React
+- [Three.js](#) - 3D library for JavaScript
+- [Framer Motion]() - An animation library for React
